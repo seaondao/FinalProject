@@ -1,0 +1,15 @@
+# Visual Studio build output
+*.exe
+*.pdb
+*.ilk
+*.obj
+obj/
+.vs/
+x64/
+*.user
+
+# Sample data and generated files (download from Canvas)
+data/
+*.zip301
+*2.txt
+biglog.txt
